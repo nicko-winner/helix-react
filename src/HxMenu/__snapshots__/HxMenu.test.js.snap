@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HxMenu renders correctly with slot/child elements 1`] = `"<hx-menu id=\\"menuId\\"><hx-menuitem>Action 1</hx-menuitem><hx-menuitem>Action 2</hx-menuitem><hx-menuitem>Action 3</hx-menuitem></hx-menu>"`;
